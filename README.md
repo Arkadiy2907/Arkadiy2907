@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
+</div>
 <!--
 **Arkadiy2907/Arkadiy2907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
