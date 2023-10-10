@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="telegram Badge"/>
   </a>
 </div>
+---
+
 ### :man_technologist: I am a Front-end Developer 
 
 ---
