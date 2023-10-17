@@ -9,6 +9,9 @@
   <a href="https://t.me/arkadiy2907">
     <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="telegram Badge"/>
   </a>
+  <a href="https://www.codewars.com/users/Arkadiy2907">
+    <img src="https://img.shields.io/badge/codewars-blue?logo=codewars&logoColor=orange&style=for-the-badge" alt="codewars Badge"/>
+  </a>
 </div>
 
 ---
